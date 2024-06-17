@@ -2,10 +2,9 @@ const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
 const textArray = ["Pragya Sharma", 
-
 "Computer Science Undergraduate",
-		   "A  Technology Enthusiast"
-
+"Front-end Developer",
+"Back-end Developer"
 ];
 const typingDelay = 200;
 const erasingDelay = 100;
